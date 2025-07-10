@@ -46,6 +46,8 @@ This project provides a great learning platform for understanding client-server 
 In conclusion, the Real-Time Chat Application is a powerful yet straightforward example of how modern web technologies can create seamless and interactive communication platforms. Whether used for learning, team collaboration, or community engagement, the application serves as a solid base for scalable, real-world chat systems.
 
 *OUTPUT*
+
 <img width="847" height="679" alt="Image" src="https://github.com/user-attachments/assets/08f56d5b-5452-452b-8b20-127d995c67f5" />
+
 <img width="1762" height="905" alt="Image" src="https://github.com/user-attachments/assets/a96005b5-307d-4e0d-b40f-fba18e26c9a1" />
 
